@@ -1,5 +1,5 @@
 # Aplikasi Manajemen Gudang
-Pada aplikasi ini, user dapat menambahkan, membaca, mengedit, dan menghapus data gudang. Implementasi menggunakan PHP OOP.
+Pada aplikasi ini, user dapat menambahkan, membaca, mengedit, dan menghapus data gudang. Implementasi menggunakan PHP OOP dan PDO.
 
 ## Fitur Utama
 1.	Create: User dapat menambahkan Data Gudang baru
